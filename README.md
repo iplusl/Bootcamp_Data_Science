@@ -12,6 +12,8 @@ Mergulhe de cabeça nos dados!
 
 Neste módulo vamos aprender como utilizar Python, Pandas e Matplotlib para explorar os dados financeiros do SUS, mais precisamente os gastos por Unidade Federativa ao longo dos anos. Os desafios se iniciam na aquisição dos dados em uma plataforma do governo e seus possíveis problemas, passando pelo leitura destes dados com o Pandas até a criação de hipóteses na área da saúde, que sempre devem ser cuidadosas, simulando os desafios diários de uma pessoa cientista de dados.
 
+Você pode ver mais informações do módulo 1 <a href="https://github.com/iplusl/Bootcamp_Data_Science/blob/main/Modulo1/Modulo1.md">aqui</a>.
+
 ## Modulo 2: Visualização de dados com Seaborn e Matplotlib
 
 ## Modulo 3: Análise de séries temporais
