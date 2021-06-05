@@ -16,6 +16,12 @@ Você pode ver mais informações do módulo 1 <a href="https://github.com/iplus
 
 ## Modulo 2: Visualização de dados com Seaborn e Matplotlib
 
+Neste módulo seguiremos nas análises dos dados financeiros do SUS. Vamos mais fundo no tratamento e manipulação dos dados para análises mais complexas, utilizando recursos mais avançados do Pandas e da Linguagem Python como um todo.
+
+Fontes de dados externas serão utilizadas para enriquecer a análise exploratória e realizar comparações mais precisas entre os diferentes estados. Além disso, discutiremos mais sobre boas práticas de visualização, interpretação de gráficos e sua construção com o Seaborn.
+
+Você pode ver mais informações do módulo 2 <a href="https://github.com/iplusl/Bootcamp_Data_Science/blob/main/Modulo2/Modulo2.md">aqui</a>.
+
 ## Modulo 3: Análise de séries temporais
 
 ## Modulo 4: Tratamento, análise e Machine Learning aplicado
