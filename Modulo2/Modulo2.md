@@ -9,3 +9,10 @@ Fontes de dados externas serão utilizadas para enriquecer a análise explorató
 * Como fazer a leitura de dados no formato Excel com Pandas;
 * Como tornar uma string em (com formato de tabela) legível em pandas usando o String.IO;
 * Como usar Join em Pandas.
+* Como construir os primeiros gráficos com Seaborn.
+* Como fazer comparações dos resultados de forma proporcional a população.
+* Como analisar gráficos como de gastos_por_habitantes X população e gastos X população, comparando suas diferenças e gerando hipóteses.
+* O que são e como usar Type hints.
+* Como criar um Scatterplot com o Seaborn;
+* Como formatar ticks ajustando sua localização da forma mais adequada possível;
+* Como criar um grid em suas visualizações para facilitar a análise.
