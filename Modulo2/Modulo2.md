@@ -16,3 +16,6 @@ Fontes de dados externas serão utilizadas para enriquecer a análise explorató
 * Como criar um Scatterplot com o Seaborn;
 * Como formatar ticks ajustando sua localização da forma mais adequada possível;
 * Como criar um grid em suas visualizações para facilitar a análise.
+* Quais caminhos não seguir na hora de trabalhar com Datatime;
+* Como usar Map, aplicando uma função no DataFrame;
+* Como usar o Melt no processamento dos dados.
