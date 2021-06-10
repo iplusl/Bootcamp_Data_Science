@@ -19,3 +19,5 @@ Fontes de dados externas serão utilizadas para enriquecer a análise explorató
 * Quais caminhos não seguir na hora de trabalhar com Datatime;
 * Como usar Map, aplicando uma função no DataFrame;
 * Como usar o Melt no processamento dos dados.
+* Como fazer uma comparação ano a ano dos custos do SUS usando o DateTime;
+* Como analisar e manipular os dados para criar análises mais avançadas.
