@@ -21,3 +21,7 @@ Fontes de dados externas serão utilizadas para enriquecer a análise explorató
 * Como usar o Melt no processamento dos dados.
 * Como fazer uma comparação ano a ano dos custos do SUS usando o DateTime;
 * Como analisar e manipular os dados para criar análises mais avançadas.
+* Como usar o Groupby;
+* Como alterar a Palete de cores do seu gráfico com seaborn;
+* Como usar a Palete de cores para ajudar na interpretação dos gráficos;
+* O que é e como usar o catplot para comparar categorias.
