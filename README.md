@@ -24,6 +24,12 @@ Você pode ver mais informações do módulo 2 <a href="https://github.com/iplus
 
 ## Modulo 3: Análise de séries temporais
 
+Neste módulo vamos descobrir o que são séries temporais e estudar suas particularidades.
+
+Todo arcabouço teórico adquirido até aqui será aplicado para o entendimento das nuances envolvendo as séries temporais. Da estatística descritiva, passando pela análise exploratória e chegando às previsões, sempre de forma aplicada e prática utilizando ferramentas específicas para esse tipo de dados, como o StatisModel e Prophet desenvolvido pelo Facebook.
+
+Você pode ver mais informações do módulo 3 <a href="https://github.com/iplusl/Bootcamp_Data_Science/blob/main/Modulo3/Modulo3.md">aqui</a>.
+
 ## Modulo 4: Tratamento, análise e Machine Learning aplicado
 
 ## Modulo 5: Modelos, métricas e validações em Machine Learning
