@@ -32,6 +32,14 @@ Você pode ver mais informações do módulo 3 <a href="https://github.com/iplus
 
 ## Modulo 4: Tratamento, análise e Machine Learning aplicado
 
+Estamos chegando na reta final, e este módulo dará início ao desenvolvimento de um projeto prático que passará por todo o workflow em Data Science, do entendimento do problema, tratamento e análise dos dados até a proposta de solução utilizando Machine Learning.
+
+Vamos trabalhar com dados da COVID-19 do hospital Sírio Libanês, focando este módulo no tratamento e análise de dados para entender profundamente o problema que estamos lidando e propor possíveis soluções.
+
+A partir de agora, tudo que você aprendeu ao longo destes meses será colocado em prática para ajudar a propor soluções para problemas reais de um hospital. Você irá encarar desafios reais de uma pessoa Cientista de Dados na área da saúde.
+
+Você pode ver mais informações do módulo 4 <a href="https://github.com/iplusl/Bootcamp_Data_Science/blob/main/Modulo4/Modulo4.md">aqui</a>.
+
 ## Modulo 5: Modelos, métricas e validações em Machine Learning
 
 ## Modulo Extra
