@@ -42,4 +42,10 @@ Você pode ver mais informações do módulo 4 <a href="https://github.com/iplus
 
 ## Modulo 5: Modelos, métricas e validações em Machine Learning
 
+No último módulo aplicamos todo nosso conhecimento para analisar dados da COVID-19, entender alguns dos desafios dos hospitais em época de pandemia e propor soluções a partir das análises de dados.
+
+Nossa proposta de solução foi utilizar modelos de Machine Learning, mas para tornar isso possível precisamos aprofundar nossos conhecimentos nesta área, testando modelos mais avançados, utilizando métricas adequadas ao problema e validando de forma correta. Neste módulo vamos trabalhar todas estas frentes para tornar nossa solução uma proposta viável.
+
+Você pode ver mais informações do módulo 5 <a href="https://github.com/iplusl/Bootcamp_Data_Science/blob/main/Modulo5/Modulo5.md">aqui</a>.
+
 ## Modulo Extra
